@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B56772281D94B1D0006B6EC8 /* SORTIROVOCHKI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SORTIROVOCHKI; sourceTree = BUILT_PRODUCTS_DIR; };
 		B567722B1D94B1D0006B6EC8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B56772331D94B4C9006B6EC8 /* LinearSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinearSort.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B567722B1D94B1D0006B6EC8 /* main.cpp */,
+				B56772331D94B4C9006B6EC8 /* LinearSort.h */,
 			);
 			path = SORTIROVOCHKI;
 			sourceTree = "<group>";
